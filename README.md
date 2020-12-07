@@ -14,12 +14,15 @@
   <li>Week 11: Tries</li> 
   <li>Week 12: Regular Expressions</li> 
 </ul> 
+
 # Class time 
 4pm - 5pm(except on wednesday and saturday) 
+
 # Projects 
 <ul> 
   <li>Week 1: A simple text editor</li> 
 </ul> 
+
 # Prerequisite
  <ul>
   <li>Basic programming concepts</li>
