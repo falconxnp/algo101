@@ -16,7 +16,7 @@
 </ul> 
 
 # Class time 
-4pm - 5pm(except on wednesday and saturday) 
+4pm - 5pm(except on wednesday and saturday), starting from December 8, 2020
 
 # Projects 
 <ul> 
