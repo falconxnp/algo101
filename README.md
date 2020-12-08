@@ -21,6 +21,7 @@
 # Projects 
 <ul> 
   <li>Week 1: A simple text editor</li> 
+  <li>Week 2: Creating a simple discord bot</li>
 </ul> 
 
 # Prerequisite
@@ -28,3 +29,9 @@
   <li>Basic programming concepts</li>
   <li>Lot of free time and curiosity to learn</li>
  </ul>
+ 
+ # Softwares installation
+ <ul>
+  <li><a href= "https://adoptopenjdk.net/" target="_blank">Install openjdk11</a></li>
+  <li><a href="https://www.jetbrains.com/idea/download/" target="_blank">Install intellij idea community edition</a></li>
+</ul>
